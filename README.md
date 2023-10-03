@@ -1,6 +1,6 @@
 # Oii!! me chamo Lucas Felipe :yum:
 
-- :school: Sou estudante, atualmente curso: Licenciatura em Ciencia da Computação, campus IV
+- :school: Sou estudante da UFPB, atualmente curso: Licenciatura em Ciencia da Computação, campus IV
 - :smile: Pronouns ele/dele
 
   
