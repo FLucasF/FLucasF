@@ -10,14 +10,17 @@
 
 </div>
 
+# Estudando no momento:
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Lucas-MySql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Lucas-Pýthon" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 </div>
+
+# Contatos:
 <div> 
   <br/>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img align="center" height="30" img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucasfelipeGITHUB@gmail.com"><img align="center" height="30" img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-felipe-gomes-pedrosa-a96a0825a/" target="_blank"><img align="center" height="30" img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
