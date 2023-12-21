@@ -1,6 +1,6 @@
 # Oii!! me chamo Lucas Felipe :yum:
 
-- :school: Sou estudante da UFPB, atualmente curso: Licenciatura em Ciencia da Computação, campus IV
+- :school: Sou estudante da UFPB, atualmente curso: Licenciatura em Ciencia da Computação, campus IV.
 - :smile: Pronouns ele/dele
 
 [![](https://raw.githubusercontent.com/FLucasF/FLucasF/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
