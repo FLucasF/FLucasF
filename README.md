@@ -33,7 +33,7 @@
   <br/>
 </div>
 
-# Contatos/Contacts:
+## Contatos/Contacts:
 
 <div> 
   <a href = "mailto:lucasfelipeGITHUB@gmail.com"><img align="center" height="30" img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
