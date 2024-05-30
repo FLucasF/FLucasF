@@ -31,11 +31,18 @@
   <img align="center" alt="php" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">    
 </div>
 
+### Testes:
+<div style="display: inline_block"><br>       
+    <img align="center" alt="junit" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg">
+    <img align="center" alt="cypress" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">      
+</div>
+
 ### FrameWorks:
 <div style="display: inline_block"><br>
     <img align="center" alt="laravel" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
-    <img align="center" alt="laravel" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">      
+    <img align="center" alt="react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">      
 </div>
+
 
 <div>
   <br/>
