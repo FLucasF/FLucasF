@@ -20,7 +20,7 @@
 
 ## Estudando no momento/Studying at the moment:
 
-### Linguagens:
+### Linguagens/Languages:
 <div style="display: inline_block"><br>
   <img align="center" alt="html" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="css" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -31,7 +31,7 @@
   <img align="center" alt="php" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">    
 </div>
 
-### Testes:
+### Testes/Tests:
 <div style="display: inline_block"><br>       
     <img align="center" alt="junit" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg">
     <img align="center" alt="cypress" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">      
