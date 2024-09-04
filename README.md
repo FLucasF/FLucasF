@@ -38,13 +38,15 @@
 ### FrameWorks:
 <div style="display: inline_block"><br>
     <img align="center" alt="laravel" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
-    <img align="center" alt="react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">      
+    <img align="center" alt="react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>
 
 ## Estudando no momento/Studying at the moment:
-<div>
-  <img align="center" alt="cypress" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">   
-  <img align="center" alt="react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+<div>  
+  <img align="center" alt="php" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"> 
+  <img align="center" alt="cypress" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original-wordmark.svg" />
+  <img align="center" alt="html" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="css" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
 </div>
 <div>
   <br/>
