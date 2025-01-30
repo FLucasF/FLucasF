@@ -31,7 +31,6 @@
 <div style="display: inline_block"><br>       
   <img align="center" alt="JUnit" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg">
   <img align="center" alt="Cypress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg">   
-  <img align="center" alt="swagger" height="120" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" />
 </div>
 
 ---
